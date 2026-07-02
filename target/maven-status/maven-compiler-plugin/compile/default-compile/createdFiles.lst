@@ -1,0 +1,3 @@
+com/aidana/notification_service/kafka/event/TransactionEvent.class
+com/aidana/notification_service/NotificationServiceApplication.class
+com/aidana/notification_service/kafka/consumer/NotificationConsumer.class
